@@ -217,4 +217,5 @@ op
 
 
 # Result
-      Thus we have carried out data cleansing and removed the outliers by detection using IQR and Z Score method.
+      
+Thus we have carried out data cleansing and removed the outliers by detection using IQR and Z Score method.
